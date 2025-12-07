@@ -1,0 +1,5 @@
+{
+  "name": "CJC Script Visualizer",
+  "description": "A video editing companion tool that analyzes transcripts and generates historical visual storyboards using AI.",
+  "requestFramePermissions": []
+}
